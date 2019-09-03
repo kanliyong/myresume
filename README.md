@@ -25,15 +25,15 @@
   - 系统的研究过数据理论概念
   - 对数据的建模 , 数据查询优化有丰富的实操经验
   
-* nginx / openresty / lua 
+* Gginx / Openresty / Lua 
   - 熟练使用 Lua 脚本语言,并基于 openresty 完成开发任务
   - 曾经在企业内完成 WAF 的功能,包括 IP / Session / cidr 等限制功能
   
-* linux 使用经验
-  - 熟练使用 linux 操作系统
+* Linux 使用经验
+  - 熟练使用 Linux 操作系统
   - 熟悉操作系统原理
   
-* python / go 的熟练使用,并在实际项目中应用
+* Python / Go 的熟练使用,并在实际项目中应用
 
 * android 开发
   
@@ -42,11 +42,11 @@
 
 ### 技术
 
-1. Java / python / go / lua
-2. Mysql / mongodb / redis / clickhouse
-3. linux / docker / k8s / git 
-4. Vue / android / jquery
-5. spring boot / dubbo / rabbitmq / kafaka
+1. Java / Python / Go / Lua
+2. Mysql / MongoDB / Redis / Clickhouse
+3. Linux / docker / K8s / Git 
+4. Spring boot / Dubbo / Rabbitmq / Kafaka
+5. Android / Vue / Reactjs  / Jquery
 
 ------
 
