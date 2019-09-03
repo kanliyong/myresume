@@ -1,5 +1,5 @@
 # 阚立勇
-## 高级Java工程师 / 架构师
+## 高级Java工程师 / 全栈工程师
 
 > 北京,男,1987年  
 > [kanliyong@qq.com](kanliyong@qq.com)  
