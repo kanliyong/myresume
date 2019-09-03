@@ -25,7 +25,8 @@
   - 系统的研究过数据理论概念
   - 对数据的建模 , 数据查询优化有丰富的实操经验
   
-* Gginx / Openresty / Lua 
+* Nginx / Openresty / Lua 
+  - 熟练使用 Nginx
   - 熟练使用 Lua 脚本语言,并基于 openresty 完成开发任务
   - 曾经在企业内完成 WAF 的功能,包括 IP / Session / cidr 等限制功能
   
