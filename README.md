@@ -45,22 +45,48 @@
 2. Mysql / mongodb / redis / clickhouse
 3. linux / docker / k8s / git 
 4. Vue / android / jquery
-5. spring boot / dubbo / rabbitmq / 
+5. spring boot / dubbo / rabbitmq / kafaka
 
 ------
 
 ### 工作经验
 
-* 北京中网易企秀科技有限公司
+* 北京中网易企秀科技有限公司 (2018-11 ~ 至今)
   - 企业流量入口 WAF 的开发:
     基于 openresty / lua 开发的 web 应用网关.
     特点是 : 控制多台 openresty 实例 / 策略秒级下发 / 性能损耗低;
-    完成的主要功能有 : 
+    完成的主要功能有 : IP / session / cidr / uri 的访问控制 , IP白名单 , 机器人识别 , 策略自动下发等
+    
+  - Dubbo monitor 重新开发
+    由于原生 dubbo monitor 性能差,UI 界面不直观等原因,重新开发了 Dubbo monitor 功能.
+    采用 Reactive 方式 实时计算统计结果后存储到 Mysql 中,
+    使用 Grafana 展示数据
+    
+  - 基于 Dubbo 开发企业各种产品后台
+    dubbo 技术栈 完成 10 小程序后台的开发任务
+    
+  - disconf 二次开发
+    添加企业权限控制功能
+  
+* 北京启明方科技有限公司 (2018-05 ~ 2018-11)
 
-AAA信息技术有限公司
-: *Android工程师*
-  __2010年至年2012年__
-  工作详情说明
+  - 对接各种区块链钱包
+  独自对接各种区块链钱包,并向外提供 RPC 接口,完成到账 , 提币 , 交易查询等功能
+  包括: BTC / ETH / EOS / USDT / BSV / ETC / Rippled / ADA 等
+
+ - 冷钱包 App
+ 采用 Android / java 开发冷钱包 app,主要功能包括:多重签名,秘钥离线保存,助记词等
+
+* 秦皇岛无为科技有限公司 (2017-10 ~ 2018-05)
+
+  - 负责facebook数据采集工作，使用graphAPI采集数据，并存储起来以便分析。技术方面采用分布式任务的方式，涉及到代理切换、token利用等。
+  - 针对采集的数据进行分析，协助商务决策。分析粉丝页、域名等发文比例。主要使用spark stream、mongodb aggregate等工具。
+  
+* 秦皇岛神州云盾科技有限公司 (2016-10 ~ 2018-10)
+* 秦皇岛金米通科技有限公司 (2014-09 ~ 2016-10)
+* 秦皇岛晨砻科技 (2012-03 ~ 2014-09)
+* 北京本果科技有限公司(2011-06 ~ 2012-03)
+
 
 ------
 
