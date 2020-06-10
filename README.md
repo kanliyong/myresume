@@ -56,9 +56,9 @@
 
 一. 北京中网易企秀科技有限公司 (2018-11 ~ 至今)
   - 企业流量入口 WAF 的开发:
-    基于 openresty / lua 开发的 web 应用网关.
-    特点是 : 控制多台 openresty 实例 / 策略秒级下发 / 性能损耗低;
-    完成的主要功能有 : IP / session / cidr / uri 的访问控制 , IP白名单 , 机器人识别 , 策略自动下发等
+    基于 openresty / lua 开发的 web 应用网关. 
+    特点是 : 控制多台 openresty 实例 / 策略秒级下发 / 性能损耗低; 
+    完成的主要功能有 : IP / session / cidr / uri 的访问控制 , IP白名单 , 机器人识别 , 策略自动下发等 
 
   - Dubbo monitor 重新开发
     由于原生 dubbo monitor 性能差,UI 界面不直观等原因,重新开发了 Dubbo monitor 功能.
