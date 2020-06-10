@@ -1,5 +1,5 @@
 # 阚立勇
-## 高级Java工程师 / 全栈工程师
+## 高级Java工程师 / Python 高进工程师 / 全栈工程师
 
 > 北京,男,1987年  
 > [kanliyong@qq.com](kanliyong@qq.com)  
@@ -9,8 +9,8 @@
 
 ### 简介 
 
-扎实的Java基础  
-富有激情与创意  
+扎实的Java基础，熟练掌握 Python,SQL,javascript 等其他语言  
+富有激情与创意，敢于突破，不走寻常路  
 学习和实践能力强   
 
 
@@ -19,27 +19,26 @@
 
 ### 技能
 
-* Java开发
-  - 六年 java 开发经验丰富,基础扎实
-  - 熟练使用各种主流框架,并了解其原理.例如 spring boot , spring cloud, dubbo, JPA 等
-
 * 数据库使用经验
   - 熟练使用各种数据库,例如:mysql , mongodb , redis , clickhourse 等
   - 系统的研究过数据理论概念
   - 对数据的建模 , 数据查询优化有丰富的实操经验
+  - 尤其对 MySQL 的原理，Innodb 存储引擎有深入研究
+
+* Java开发
+  - 六年 java 开发经验丰富,基础扎实
+  - 熟练使用各种主流框架.例如 spring boot , spring cloud, dubbo, JPA 等
+  
+* Linux 使用经验
+  - 熟练使用 Linux 操作系统
+  - 熟悉操作系统原理
 
 * Nginx / Openresty / Lua 
   - 熟练使用 Nginx
   - 熟练使用 Lua 脚本语言,并基于 openresty 完成开发任务
   - 曾经在企业内完成 WAF 的功能,包括 IP / Session / cidr 等限制功能
 
-* Linux 使用经验
-  - 熟练使用 Linux 操作系统
-  - 熟悉操作系统原理
-
 * Python / Go 的熟练使用,并在实际项目中应用
-
-* android 开发
 
 -------
 
